@@ -1,4 +1,4 @@
-# Map Reduce system
+# Map Reduce distributed system
 
 ## Build
 ```
